@@ -111,6 +111,18 @@ Services are listed **alphabetically**. Listing does **not** imply endorsement. 
 
 ---
 
+### Shannon API
+
+| Field | Details |
+|-------|---------|
+| **Website** | [shannonapi.xyz](https://shannonapi.xyz) |
+| **Models** | Multi-model aggregation: OpenAI (GPT-5 series, o1/o3-pro), Anthropic (Claude Opus 4.1, Claude Mythos series), Gemini, DeepSeek, Zhipu GLM, Kimi, Grok, MiniMax |
+| **Payment** | CNY (Alipay / WeChat Pay), bank card, USDT; credit-based, 1:1 top-up |
+| **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`) |
+| **Notable Features** | Per-group multipliers published on a public model plaza (no login required); console shows balance and per-call usage; terms / privacy / usage policy are public pages |
+
+---
+
 ### SiliconFlow
 
 | Field | Details |
@@ -322,6 +334,7 @@ AI API 中转服务作为你的应用与上游 AI 提供商（OpenAI、Anthropic
 | **DMXAPI** | dmxapi.cn | 多模型聚合 | 人民币 / 额度 | OpenAI 兼容 | 多上游聚合，社区常见 |
 | **Ofox.ai** | ofox.ai | 多模型 | 见官网 | OpenAI 兼容 | 新兴平台，持续扩展 |
 | **OpenRouter** | openrouter.ai | 数百款模型 | 额度（国际卡/加密货币） | OpenAI 兼容 | 国际聚合器，按模型透明计价 |
+| **Shannon API** | shannonapi.xyz | 多模型聚合：GPT-5 系列 / o1·o3-pro / Claude Opus 4.1 / Claude Mythos / Gemini / DeepSeek / GLM / Kimi / Grok / MiniMax | 人民币（支付宝/微信）、银行卡、USDT；额度制，充值 1:1 | OpenAI 兼容 | 模型广场免登录公开分组倍率；控制台可查余额与逐次用量；条款/隐私/使用政策均为公开页面 |
 | **SiliconFlow 硅基流动** | siliconflow.cn | 开源 / 多模态模型 | 人民币 / 额度 | OpenAI 兼容 | 专注开源模型托管，公司运营 |
 | **YAPI** | yapi.uk | Claude + GPT + DeepSeek + GLM + Kimi | 人民币（支付宝/微信） | OpenAI + Anthropic 双兼容 | 多模型聚合，同端点支持原生 Claude 格式，账单可追溯 |
 
